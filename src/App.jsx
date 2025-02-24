@@ -1,9 +1,9 @@
 import React from "react";
-import Header from "./components/header";
+import Registration from "./components/registration";
 function App() {
   return (
-    <div className="bg-slate-950">
-      <Header />
+    <div className="bg-gray-600">
+      <Registration />
     </div>
   );
 }
